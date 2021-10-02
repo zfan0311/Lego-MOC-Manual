@@ -13,9 +13,11 @@ $$
 
 乐高建筑的搭建中，最常见的两种零件类型为**`砖（Brick）`**和**`板（Plate）`**，他们的区别一看便知：
 
-<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimages-cn.ssl-images-amazon.com%2Fimages%2FI%2F71xFs-rq0RL._SL1500_.jpg&refer=http%3A%2F%2Fimages-cn.ssl-images-amazon.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1635738093&t=c8a64c2db90a37221c039c3ef100d2a6" alt="img" style="zoom: 25%;" /> <img src="C:\Users\MI\AppData\Roaming\Typora\typora-user-images\image-20211002114338473.png" alt="image-20211002114338473" style="zoom: 80%;" />
+![砖和板](images\block_plate.png)
 
 ## 砖的尺寸
+
+![Lego Dimensions](images/Lego Dimensions.jpg)
 
 每块砖的高度为`6p（主体） + 1p（插槽）`，也就是`9.6mm + 1.6mm`。如果按照普通住宅的层高`2.8m`来换算，每层楼的高度应为7.5块砖：
 $$
